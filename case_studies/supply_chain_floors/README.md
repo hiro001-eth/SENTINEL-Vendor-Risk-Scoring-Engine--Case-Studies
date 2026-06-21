@@ -14,7 +14,7 @@ The agency deployed SENTINEL and configured the `CATEGORY_FLOOR_ENABLED` policy 
 ### Uncompromising Floor Enforcement
 SENTINEL evaluates each risk domain independently before calculating the aggregate score. The agency set a strict category floor of 40.0. If a vendor scores below this threshold in any single category, SENTINEL intercepts the scoring process.
 
-![Dashboard Overview](../../../assets/screenshots/ui_preview_1.png)
+![Dashboard Overview](../../assets/screenshots/ui_preview_1.png)
 
 ### Automatic Policy Blocking
 Instead of averaging the failure into a passing grade, SENTINEL instantly overrides the aggregate score. The vendor is automatically classified as "High Risk", a Threshold Violation event is logged in the permanent audit trail, and webhook alerts are fired to the security team.

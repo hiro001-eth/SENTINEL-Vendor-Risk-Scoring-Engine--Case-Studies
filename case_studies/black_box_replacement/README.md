@@ -18,7 +18,7 @@ Every assessment processed by SENTINEL generates a permanent, tamper-evident rec
 2. The specific questionnaire schema utilized.
 3. The exact responses provided by the vendor.
 
-![Audit and Vendor Details](../../../assets/screenshots/ui_preview_4.png)
+![Audit and Vendor Details](../../assets/screenshots/ui_preview_4.png)
 
 ### Zero Black Box Operations
 Unlike commercial alternatives, SENTINEL operates entirely on open-source YAML configurations. The healthcare organization was able to print the exact mathematical formula used for scoring and hand it directly to their external auditors.

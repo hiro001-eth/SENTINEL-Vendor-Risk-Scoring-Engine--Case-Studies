@@ -14,7 +14,7 @@ SENTINEL's advanced analysis engine was configured to automatically map specific
 ### Actionable Threat Mapping
 When the logistics vendor failed the access control and encryption requirements, SENTINEL immediately flagged the exact threat tactics that malicious actors could exploit due to these missing controls.
 
-![MITRE Mapping Interface](../../../assets/screenshots/ui_preview_6.png)
+![MITRE Mapping Interface](../../assets/screenshots/ui_preview_6.png)
 
 ### Automated SOC Alerting
 Instead of waiting for a manual report, SENTINEL utilized its webhook integration to instantly alert the SOC channel. The alert explicitly detailed that the vendor was vulnerable to T1078 (Valid Accounts) and T1486 (Data Encrypted for Impact).

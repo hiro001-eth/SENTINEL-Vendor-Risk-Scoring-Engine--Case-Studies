@@ -15,12 +15,12 @@ SENTINEL was deployed to replace the manual workflows with a deterministic, API-
 ### Automated Ingestion and Validation
 The team utilized SENTINEL's bulk CSV upload capabilities. Analysts now upload standardized response data directly into the engine, which automatically validates the data schema and processes the scoring in milliseconds.
 
-![CSV Upload Process](../../../assets/screenshots/ui_preview_2.png)
+![CSV Upload Process](../../assets/screenshots/ui_preview_2.png)
 
 ### Real-Time Telemetry
 Once processed, the executive dashboard immediately updates, providing a consolidated view of the entire vendor ecosystem. The automated pipeline categorizes vendors into strict risk tiers without human bias.
 
-![Vendor Risk Telemetry](../../../assets/screenshots/ui_preview_3.png)
+![Vendor Risk Telemetry](../../assets/screenshots/ui_preview_3.png)
 
 ## Business Impact
 * **Efficiency Gains:** Reduced average vendor assessment time from 4 hours to under 10 seconds per vendor.

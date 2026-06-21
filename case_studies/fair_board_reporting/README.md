@@ -14,12 +14,12 @@ The organization activated SENTINEL's native FAIR (Factor Analysis of Informatio
 ### Actuarial Risk Quantification
 SENTINEL automatically ingested the vendor gap data and processed it through the FAIR model. It calculated the Annualized Rate of Occurrence (ARO) and the Single Loss Expectancy (SLE) based on the asset value connected to each vendor.
 
-![FAIR Financial Dashboard](../../../assets/screenshots/ui_preview_5.png)
+![FAIR Financial Dashboard](../../assets/screenshots/ui_preview_5.png)
 
 ### Automated Board Reporting
 Instead of manually compiling PowerPoint slides, the CISO utilized SENTINEL's PDF/A reporting engine. The generated report clearly displayed the Annualized Loss Expectancy (ALE).
 
-![Executive PDF Report](../../../assets/screenshots/ui_preview_7.png)
+![Executive PDF Report](../../assets/screenshots/ui_preview_7.png)
 
 ## Business Impact
 * **Effective Executive Communication:** The CISO presented a SENTINEL report showing a $3.5 Million Annualized Loss Expectancy directly linked to the vulnerable suppliers.
